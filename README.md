@@ -98,7 +98,7 @@ License-Plate-Tracking_yolov11_SORT/
 
 **Example Output Frame:**
 
-![Sample Output](screenshot.png)
+![Sample Output](screenShot.png)
 
 ---
 
