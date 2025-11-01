@@ -100,16 +100,7 @@ License-Plate-Tracking_yolov11_SORT/
 
 ![Sample Output](screenShot.png)
 
----
 
-## 💡 Future Improvements
-
-- Integrate **OCR** for license plate text extraction  
-- Implement **DeepSORT** for appearance-based tracking  
-- Enable **multi-camera tracking synchronization**  
-- Add **speed estimation** based on vehicle trajectory  
-
----
 
 ## 🧠 Learning Highlights
 
